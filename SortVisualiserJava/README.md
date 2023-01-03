@@ -33,6 +33,13 @@ Java Sorting Visualizer using *Swing Components | Swing Worker | Graphics 2D
 * contains all the sorting algorithm used
 * *SortAlgorithm* is the Parent Class of the sorting algorithms. It has all the methods that the sorting algorithm needs.
 * *SortingAlgorithm* is an `enum` that controls the request from other panels. It also handles methods that are being called in the `current_algorithm`.
+
+
+# How to run the application
+
+* simply go to the mainapp.java file and run the file
+* you will be able to access the dasboard of application
+[![dashboard of application](https://i.postimg.cc/9z5pdWjD/Screenshot-from-2023-01-03-11-14-15.png)]
 ### customJComponent
 * JComponents that have various constructors to meet the needs of the program.
 
